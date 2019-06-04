@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PokeMon>
+    <gameStart>
+        <doctor>
+            <dialog1>ƒ„∫√£°»√ƒ„æ√µ»¡À£°</dialog1>
+            <dialog2>tom</dialog2>
+            <dialog3>UK</dialog3>
+            <dialog4>30</dialog4>
+        </doctor>
+        <stu>
+            <sid>1002</sid>
+            <sname>lily</sname>
+            <addr>USA</addr>
+            <age>25</age>
+        </stu>
+    </gam>
+</PokeMon>
